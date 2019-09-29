@@ -1,6 +1,8 @@
 .settings/*
 .classpath
 .factorypath
+.idea
+.idea/*
 /target/
 /bin/
 
