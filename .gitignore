@@ -1,6 +1,10 @@
 .settings/*
 .classpath
 .idea
+.mvn
+.project
+mvnw
+mvnw.cmd
 *.iml
 .factorypath
 /target/
